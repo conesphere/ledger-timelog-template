@@ -1,10 +1,4 @@
-i 2017/06/25 19:30:00 Worklog:Foo  Das ist ein Test
-i 2017/06/25 19:15:00 Worklog:Bar
-o 2017/06/25 22:40:00 Worklog:Foo  
-o 2017/06/25 22:25:00 Worklog:Bar
-2017/06/04 Manuell geschrieben
-    (Worklog:Foo)   3h
-2017/06/10 Manuell und noch einen gezaubert 
-    (Worklog:Foo)   3h
-2017/06/25 Stunden ausbezahlt  
-    (Worklog:Foo)   -12h
+2017/06/26 Was anderes gemacht
+    (Timesheet:zem)    3h
+i 2017/06/26 00:16:19 Timesheet:zem    Sonstige Arbeiten
+o 2017/06/26 00:16:23 Timesheet:zem
